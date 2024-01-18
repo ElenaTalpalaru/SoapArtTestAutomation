@@ -1,0 +1,15 @@
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\SoapArtTestFramework.deps.json
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\SoapArtTestFramework.dll
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\bin\Debug\net7.0\SoapArtTestFramework.pdb
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.csproj.AssemblyReference.cache
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.AssemblyInfoInputs.cache
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.AssemblyInfo.cs
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.csproj.CoreCompileInputs.cache
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.dll
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\refint\SoapArtTestFramework.dll
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\SoapArtTestFramework.pdb
+D:\repos1\SoapArtTestAutomation\SoapArtTestFramework\obj\Debug\net7.0\ref\SoapArtTestFramework.dll
